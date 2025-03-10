@@ -40,4 +40,4 @@ MediBridge is a *mobile/web app* designed to assist newcomers in navigating heal
 MediBridge is just the beginning—our goal is to make Canadian healthcare more accessible for everyone!
 
 UI Link:
-https://xd.adobe.com/view/d56e24d4-4cb5-4f4f-a299-5bd8996019a5-803d/
+https://xd.adobe.com/view/16cfb3a4-b574-40da-9a82-2a6bb90a0ace-439c/
